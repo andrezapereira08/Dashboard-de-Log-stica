@@ -59,12 +59,13 @@ Identifica as categorias mais rentáveis e o mix de produtos que mais contribuem
 
 Dashboard limpo, navegável e orientado a decisões.
 Métricas criadas com DAX para análises avançadas.
+Identificação de padrões críticos em atrasos e desempenho logístico.
+
+Ferramenta ideal para equipes de operações, logística e customer experience.
 
 ⚠️ **Observação:**  
 > O mês final contém dados incompletos. Pedidos sem data de entrega não entram no cálculo da taxa de atraso.
 
 
 
-Identificação de padrões críticos em atrasos e desempenho logístico.
 
-Ferramenta ideal para equipes de operações, logística e customer experience.
