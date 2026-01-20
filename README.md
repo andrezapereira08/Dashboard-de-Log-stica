@@ -58,8 +58,12 @@ Identifica as categorias mais rentáveis e o mix de produtos que mais contribuem
 💡 Impacto do Projeto
 
 Dashboard limpo, navegável e orientado a decisões.
-
 Métricas criadas com DAX para análises avançadas.
+
+⚠️ **Observação:**  
+> O mês final contém dados incompletos. Pedidos sem data de entrega não entram no cálculo da taxa de atraso.
+
+
 
 Identificação de padrões críticos em atrasos e desempenho logístico.
 
